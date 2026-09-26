@@ -23,14 +23,14 @@
 | ☀️ **AWS Light** | Original workspace (clean restore) |
 
 <p align="center">
-  <img src="screenshots/black-gold.png" width="49%" alt="Black Gold">
-  <img src="screenshots/midnight-neon.png" width="49%" alt="Midnight Neon">
+  <img src="assets/black-gold.png" width="49%" alt="Black Gold">
+  <img src="assets/midnight-neon.png" width="49%" alt="Midnight Neon">
 </p>
 <p align="center">
-  <img src="screenshots/sakura-blush.png" width="49%" alt="Sakura Blush">
-  <img src="screenshots/amethyst-royale.png" width="49%" alt="Amethyst Royale">
+  <img src="assets/sakura-blush.png" width="49%" alt="Sakura Blush">
+  <img src="assets/amethyst-royale.png" width="49%" alt="Amethyst Royale">
 </p>
-<p align="center"><img src="screenshots/theme-picker.png" width="80%" alt="Theme picker UI"></p>
+<p align="center"><img src="assets/theme-picker.png" width="80%" alt="Theme picker UI"></p>
 
 ## 📥 Installation
 
