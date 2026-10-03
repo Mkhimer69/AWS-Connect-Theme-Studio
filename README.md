@@ -38,6 +38,10 @@
   <img src="assets/amethyst-royale.png" width="49%" alt="Amethyst Royale">
   <img src="assets/emerald-abyss.png" width="49%" alt="Emerald Abyss">
 </p>
+<p align="center">
+  <img src="assets/sakura-blush.png" width="49%" alt="Sakura Blush">
+  <img src="assets/aws-light.png" width="49%" alt="AWS Light — original look">
+</p>
 <p align="center"><img src="assets/theme-picker.png" width="80%" alt="Theme picker UI"></p>
 
 ## 📥 Installation
